@@ -1,6 +1,6 @@
 # Hi, I'm Jana 👋
 
-### `actively` · Systems Engineer · Fractional CTO
+### Actively building · Systems Engineer · Fractional CTO
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00BFFF" width="100%" alt="" />
@@ -15,16 +15,16 @@ Systems engineer and fractional CTO based in Madurai, India. I build infrastruct
 Building **[BlackLoverTech](https://github.com/blacklovertech)** — technology that builds, understands, and protects systems.
 
 <p align="center">
-  <a href="https://github.com/coffeeinit">
+  <a href="https://github.com/coffeeinit" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/blacklovertech">
+  <a href="https://linkedin.com/in/blacklovertech" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://jana.blacklovertech.vercel.app">
+  <a href="https://jana.blacklovertech.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://blacklovertech.medium.com">
+  <a href="https://blacklovertech.medium.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
@@ -94,6 +94,20 @@ Exploring how to build infrastructure platforms from the ground up:
 
 The goal is not to rebuild everything. It is to understand the important parts, remove unnecessary complexity, and build only what provides real value.
 
+## Now
+
+A short snapshot of what I'm actually working on — updated when things change.
+
+<!-- Update the date below and the list items when this section goes stale. -->
+
+*Last updated: October 2026*
+
+- Building **BlackLoverTech** — tooling that builds, understands, and protects systems.
+- Writing infrastructure and control-plane code around Firecracker MicroVMs.
+- Shipping small, focused tools: [`porter`](https://github.com/coffeeinit/porter), [`nammapush-rs`](https://github.com/coffeeinit/nammapush-rs), [`tally-web`](https://github.com/coffeeinit/tally-web).
+- Writing about systems, infrastructure, and security on [Medium](https://blacklovertech.medium.com).
+- Open to fractional CTO engagements and infrastructure work.
+
 ## System Architecture
 
 I am interested in systems with clear boundaries, small components, and explicit communication between layers.
@@ -147,23 +161,21 @@ flowchart TB
 Explore my repositories for systems engineering, infrastructure, developer tooling, and experiments.
 
 <p align="center">
-  <a href="https://github.com/coffeeinit?tab=repositories">
+  <a href="https://github.com/coffeeinit?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
   </a>
 </p>
 
-<!-- Replace the example repositories below with your selected public projects. -->
-
 <p align="center">
-  <a href="https://github.com/coffeeinit/porter">
+  <a href="https://github.com/coffeeinit/porter" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffeeinit&repo=porter&theme=github_dark&hide_border=true" alt="Porter repository card" />
   </a>
-    <a href="https://github.com/coffeeinit/tall-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffeeinit&repo=tally-web&theme=github_dark&hide_border=true" alt="Porter repository card" />
-  </a>   
-  <a href="https://github.com/coffeeinit/nammapush-rs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffeeinit&repo=nammapush-rs&theme=github_dark&hide_border=true" alt="Porter repository card" />
-  </a> 
+  <a href="https://github.com/coffeeinit/tally-web" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffeeinit&repo=tally-web&theme=github_dark&hide_border=true" alt="Tally Web repository card" />
+  </a>
+  <a href="https://github.com/coffeeinit/nammapush-rs" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffeeinit&repo=nammapush-rs&theme=github_dark&hide_border=true" alt="Nammapush-rs repository card" />
+  </a>
 </p>
 
 ## Beyond the Code
@@ -177,8 +189,8 @@ I am interested in the intersection of systems engineering, infrastructure, secu
 ---
 
 <p align="center">
-  <a href="https://github.com/coffeeinit">GitHub</a> ·
-  <a href="https://jana.blacklovertech.vercel.app">Website</a> ·
-  <a href="https://linkedin.com/in/blacklovertech">LinkedIn</a> ·
-  <a href="https://blacklovertech.medium.com">Medium</a>
+  <a href="https://github.com/coffeeinit" target="_blank" rel="noopener noreferrer">GitHub</a> ·
+  <a href="https://jana.blacklovertech.vercel.app" target="_blank" rel="noopener noreferrer">Website</a> ·
+  <a href="https://linkedin.com/in/blacklovertech" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://blacklovertech.medium.com" target="_blank" rel="noopener noreferrer">Medium</a>
 </p>
